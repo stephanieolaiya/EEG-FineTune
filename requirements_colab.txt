@@ -1,0 +1,6 @@
+# Colab already ships: torch, torchvision, numpy, scipy, matplotlib
+# Install only what's missing:
+mne>=1.7.0
+open-clip-torch>=2.24.0
+osfclient>=0.0.12
+tqdm>=4.66.0

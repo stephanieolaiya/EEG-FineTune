@@ -1,0 +1,9 @@
+torch>=2.2.0
+torchvision>=0.17.0
+mne>=1.7.0
+numpy>=1.26.0
+scipy>=1.13.0
+open-clip-torch>=2.24.0
+matplotlib>=3.8.0
+tqdm>=4.66.0
+osfclient>=0.0.12
